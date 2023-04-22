@@ -8,7 +8,6 @@ colors = {
     'red': [(0, 50, 50), (50, 255, 255)],
     'green': [(50, 50, 50), (100, 255, 255)],
     'blue': [(110, 50, 50), (150, 255, 255)]
-    'yellow': [(20,70,50), (36,255,255)]
 }
 
 # define shape detection function import cv2
